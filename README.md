@@ -29,8 +29,8 @@ No nosso projeto, propomos analisar os processos e a estrutura ao redor de uma I
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Definição da empresa e estudo do seu mercado, processos e sistemas](docs/Definição da empresa e estudo do seu mercado, processos e sistemas.md) <br> |
-| ETAPA 2         |[Conhecendo os dados](docs/conhecendo-dados.md) <br> |
-| ETAPA 3         |[Preparação dos dados, construção e avaliação dos modelos propostos](docs/construindo-modelos.md) |
-| ETAPA 4        |[Implantação e apresentação da solução](docs/implantação-apresentacao.md) <br>  |
-
+| ETAPA 1         |[Definição da empresa e estudo do seu mercado, processos e sistemas](docs/docs/Definicao-da-empresa-e-estudo-do-seu-mercado-processos-e-sistemas.md) <br> |
+| ETAPA 2         |[Plano de Inteligência Competitiva (IC)](docs/Plano-de-Inteligencia-Competitiva.md) <br> |
+| ETAPA 3         |[Desenvolvimento da solução de SI](docs/Desenvolvimento-da-solucao-de-SI.md) |
+| ETAPA 4        |[Apresentação do Projeto](docs/Apresentacao-do-Projeto.md) <br>  |
+| ETAPA 5        |[Planejamento Estratégico de TI](docs/Planejamento-Estrategico-de-TI.md) <br>  |
