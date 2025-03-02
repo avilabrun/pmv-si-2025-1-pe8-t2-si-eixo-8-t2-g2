@@ -13,7 +13,7 @@
 
 ---
 
-# TÍTULO  
+# Aprimoramento Tecnológico para a Conviver Complexo de Atenção ao Idoso 
 ### Subtítulo  
 
 ---
@@ -33,7 +33,7 @@
 
 ---
 
-# TÍTULO  
+# Aprimoramento Tecnológico para a Conviver Complexo de Atenção ao Idoso  
 ### Subtítulo  
 
 ---
@@ -74,7 +74,7 @@ Para este projeto, propomos analisar os processos e a estrutura ao redor de uma 
 ### 1.2. Empresa do Projeto  
 A **Conviver Complexo de Atenção ao Idoso** é uma Instituição de Longa Permanência para Idosos (ILPI) privada que atua no mercado há mais de 20 anos. É uma empresa do ramo da hotelaria, com foco na hospedagem de curta ou longa duração para pessoas acima de 60 anos.  
 
-Seu escopo de atuação também se estende a um centro dia, onde a pessoa idosa pode frequentar em determinados dias, participando de atividades de lazer e estímulos com profissionais especializados.  
+Seu escopo de atuação também se estende a um determinado período acordado, onde a pessoa idosa pode frequentar em determinados dias, participando de atividades de lazer e estímulos com profissionais especializados.  
 
 A Conviver Complexo de Atenção ao Idoso possui uma estrutura com 09 quartos divididos em dois pavimentos, e capacidade para 20 residentes, possuindo um total de 25 funcionários.  
 
@@ -94,12 +94,27 @@ Neste ramo, as principais métricas do sucesso de uma instituição são:
 Já como tendências desse mercado, temos a automatização de tarefas e o enriquecimento dos sistemas de coleta de dados concernentes aos residentes destas instituições.  
 
 Utilizando a matriz SWOT para analisar a Conviver, temos como:  
-- **Força:** maior controle da parte burocrática e um cuidado mais personalizado com a pessoa idosa;  
-- **Fraqueza:** defasagem tecnológica e falta de capacitação técnica do corpo de funcionários;  
-- **Oportunidades:** aumento da expectativa de vida e prolongamento do período em que as pessoas são economicamente ativas; e a escassez no mercado de cuidado doméstico para o público de maior idade;  
-- **Ameaças:** novos concorrentes têm vantagens estruturais em comparação ao Conviver, que necessitou de reparos e adequações físicas no decorrer do tempo.  
 
-[Inserir informações sobre o público-alvo, análise dos concorrentes]  
+#### Forças:  
+- Maior controle da parte burocrática;  
+- Cuidado mais personalizado com a pessoa idosa.  
+
+#### Fraquezas:  
+- Defasagem tecnológica;  
+- Falta de capacitação técnica do corpo de funcionários.  
+
+#### Oportunidades:  
+- Aumento da expectativa de vida e prolongamento do período em que as pessoas são economicamente ativas;  
+- Escassez no mercado de cuidado doméstico para o público de maior idade.  
+
+#### Ameaças:  
+- Novos concorrentes têm vantagens estruturais em comparação ao Conviver, que necessitou de reparos e adequações físicas no decorrer do tempo;  
+- Processos de administração do negócio com atividades manuais e sem sistemas de controle.  
+
+A empresa tem como foco atender idosos que necessitam de acompanhamento e assistência em suas atividades diárias.  
+
+#### Diferenciais da concorrência:  
+Algumas empresas podem se destacar oferecendo atendimento personalizado, parcerias com médicos ou preços mais competitivos.  
 
 ---
 
@@ -120,6 +135,11 @@ Avaliando a maturidade dos sistemas de informação existentes na instituição,
 No decorrer da análise dos processos e sistemas em funcionamento na empresa, identificamos como oportunidades de melhoria a informatização e unificação dos dados de controle de medicamento e a mudança de fornecedor do serviço de farmácia virtual (tendo em vista que a fornecedora atual, Far.me, vai deixar o mercado).  
 
 ---
+
+### 1.5. Fluxo de negócio
+
+![image](https://github.com/user-attachments/assets/531f14ba-ad27-4cd9-8ffa-b240cb104a9a)
+
 
 ## REFERÊNCIAS  
 Fontes de pesquisa utilizadas (artigos, sites, livros, etc.).  
